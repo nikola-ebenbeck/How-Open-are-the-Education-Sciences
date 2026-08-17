@@ -6,3 +6,6 @@ Open Science practices are increasingly promoted in educational research by fund
 
 **Preprint:**
 https://osf.io/preprints/edarxiv/fu6vs_v1
+
+**Preregistration:**
+https://osf.io/vq5nh/overview
